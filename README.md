@@ -3,5 +3,4 @@ Sistema de Aprendizaje basado en Tarjetas de Aprendizaje (Flashcards) para el Tr
 
 
 Fecha Entrega: Diciembre de 2019
-
 Fecha Defensa: Febrero de 2020
